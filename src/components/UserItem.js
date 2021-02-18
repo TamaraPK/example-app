@@ -6,7 +6,7 @@ import { Avatar } from '@tamarapk/learnstorybook-design-system';
  
 const Container = styled.div`
   background: #eee;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   padding: 0.5em;
 `;
  
