@@ -1,6 +1,7 @@
 import React from 'react';
 
 import UserList from './components/UserList';
+import { ButtonPF } from "@primekey-design-system/pkds";
 
 const users = [
   {
@@ -16,7 +17,7 @@ const users = [
 ];
 
 function App() {
-  return <UserList users={users} />;
+  return <ButtonPF label={"Hello PF button"} />;
 }
 
 export default App;

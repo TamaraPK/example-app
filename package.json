@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@primekey-design-system/pkds": "^0.0.1",
     "@tamarapk/learnstorybook-design-system": "^0.2.18",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
